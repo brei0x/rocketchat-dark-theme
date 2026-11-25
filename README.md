@@ -31,7 +31,3 @@ apply to the iOS and Android apps, which ignore Custom CSS.
 
 Upgrade, removal and troubleshooting: [docs/SETUP.md](docs/SETUP.md).
 Changes between versions: [releases](https://github.com/brei0x/rocketchat-dark-theme/releases).
-
-## Screenshot
-
-![The #engineering channel with the Brei0x theme: channel sidebar, messages, a Darcula code block and the composer](docs/assets/screenshot.jpg)
