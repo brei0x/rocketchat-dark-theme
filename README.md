@@ -11,7 +11,7 @@ and Darcula-style code blocks.
 
 ---
 
-![Rocket.Chat Theme - Brei0x](docs/screenshot.jpg "Rocket.Chat Theme - Brei0x")
+![Rocket.Chat Theme - Brei0x](docs/assets/screenshot.jpg "Rocket.Chat Theme - Brei0x")
 
 ## Prerequisites
 
