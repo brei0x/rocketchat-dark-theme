@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="docs/assets/banner.webp" alt="Brei0x, a dark graphite theme for Rocket.Chat 9, shown on the #engineering channel in a desktop window" width="100%">
+</p>
+
 # Rocket.Chat Theme - Brei0x
 
 Dark graphite theme for Rocket.Chat: neutral grays, a single blue accent, square corners
@@ -10,8 +14,6 @@ and Darcula-style code blocks.
 </p>
 
 ---
-
-![Rocket.Chat Theme - Brei0x](docs/assets/screenshot.jpg "Rocket.Chat Theme - Brei0x")
 
 ## Prerequisites
 
@@ -29,3 +31,7 @@ apply to the iOS and Android apps, which ignore Custom CSS.
 
 Upgrade, removal and troubleshooting: [docs/SETUP.md](docs/SETUP.md).
 Changes between versions: [releases](https://github.com/brei0x/rocketchat-dark-theme/releases).
+
+## Screenshot
+
+![The #engineering channel with the Brei0x theme: channel sidebar, messages, a Darcula code block and the composer](docs/assets/screenshot.jpg)
